@@ -26,23 +26,5 @@ The model utilizes a dataset containing information about various restaurants, i
 
 The project employs several machine learning classifiers, including Logistic Regression, Gaussian Naive Bayes, Decision Tree, Gradient Boosting, and Random Forest. The models were trained on a carefully split dataset, and their performance was evaluated using metrics such as accuracy, precision, recall, and F1 score.
 
-## Usage
 
-To use the predictive model, follow these steps:
-
-1. [Install dependencies](#dependencies): Ensure that the required libraries and packages are installed.
-2. [Data Preparation](#data-preparation): Prepare your dataset in a format suitable for input into the trained model.
-3. [Model Inference](#model-inference): Use the provided scripts or APIs to obtain predictions for restaurant closure likelihood.
-
-## Results
-
-The model's performance on the test dataset and its ability to predict restaurant closures are summarized in the results section. The ROC curves provide insights into the trade-off between true positive and false positive rates for each classifier.
-
-## Contributing
-
-If you'd like to contribute to the project, please follow the guidelines outlined in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
