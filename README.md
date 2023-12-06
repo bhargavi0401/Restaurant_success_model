@@ -14,7 +14,7 @@ The model utilizes a dataset containing information about various restaurants, i
 
 ## Methodology
 
-The project employs several machine learning classifiers, including Logistic Regression, Gaussian Naive Bayes, Decision Tree, Gradient Boosting, and Random Forest.Logistic Regression and Gradient Boosting being the most successful. The models were trained on a carefully split dataset, and their performance was evaluated using metrics such as accuracy, precision, recall, and F1 score.
+Utilized diverse machine learning algorithms, with Logistic Regression and Gradient Boosting proving most effective. The models were trained on a carefully split dataset, and their performance was evaluated using metrics such as accuracy, precision, recall, and F1 score.
 
 
 
