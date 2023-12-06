@@ -10,11 +10,11 @@ In the dynamic and competitive restaurant industry, understanding the factors th
 
 ## Data
 
-The model utilizes a dataset containing information about various restaurants, including features such as business metrics, location, and other relevant factors. The dataset was preprocessed to handle missing values, encode categorical variables, and prepare the data for training the machine learning models.
+The model utilizes a dataset containing information about various restaurants, including features such as business metrics, location, and other relevant factors.
 
 ## Methodology
 
-The project employs several machine learning classifiers, including Logistic Regression, Gaussian Naive Bayes, Decision Tree, Gradient Boosting, and Random Forest. The models were trained on a carefully split dataset, and their performance was evaluated using metrics such as accuracy, precision, recall, and F1 score.
+The project employs several machine learning classifiers, including Logistic Regression, Gaussian Naive Bayes, Decision Tree, Gradient Boosting, and Random Forest.Logistic Regression and Gradient Boosting being the most successful. The models were trained on a carefully split dataset, and their performance was evaluated using metrics such as accuracy, precision, recall, and F1 score.
 
 
 
